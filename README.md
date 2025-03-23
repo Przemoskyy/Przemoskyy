@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Przemoskyy
+- 👀 I’m interested in VR developtment
+- 🌱 I’m currently learning C# scripting + mastering C++ in unreal engine
