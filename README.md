@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Przemoskyy
-- 👀 I’m interested in VR development
+- 👀 I’m interested in VR dev
 - 🌱 I’m currently learning C# scripting + mastering C++ on leetcode
